@@ -44,6 +44,9 @@
    .imgindex {
        width: 400px;
        height: 300px;
+	   align-items: center;
+	   text-decoration: none;
+	   list-style-type: none;
    }
 
    #principal {}
