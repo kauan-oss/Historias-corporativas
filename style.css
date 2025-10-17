@@ -53,4 +53,5 @@
  .menuimg {
 	align-items: first baseline;
  	display: flex;
+	text-decoration: none;
  }
