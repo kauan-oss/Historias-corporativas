@@ -1,4 +1,5 @@
 	body {
+		text-align: center;
 		font-family: Verdana, Geneva, Tahoma, sans-serif;
 		margin: 0px;
 		padding: 0px;
@@ -21,7 +22,6 @@
 
 
 	.menu{
-		text-align: center;
 		text-decoration: none;
 		font-family: Verdana, Geneva, Tahoma, sans-serif;
 	}
