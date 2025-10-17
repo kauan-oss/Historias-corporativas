@@ -1,26 +1,28 @@
 	body {
 		text-align: center;
 		text-decoration: none;
-		font-family: 'Times New Roman', Times, serif;
+		font-family: 'Times New Roman', Times;[
+		margin: 0px;
+		padding: 0px;
 	}
-	
-	h1{
+
+	h1 {
 		text-decoration: underline;
 	}
 
-	p{
+	p {
 		font-size: 1.2em;
 	}
 
-	img{
+	img {
 		width: 500px;
 		height: 500px;
 	}
-	
-	.imgindex{
-		
+
+	.imgindex {
+
 	}
-	
+
 	#principal {
-		
+
 	}
