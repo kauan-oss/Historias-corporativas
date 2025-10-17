@@ -1,66 +1,55 @@
  body {
-       text-decoration: none;
-       font-family: 'Arial;
-       margin: 0px;
-       padding: 0px;
-       line-height: 1.5;
-       background-color: aquamarine;
-   }
+ 	text-decoration: none;
+ 	font-family: 'Arial;
+ margin: 0px;
+ 	padding: 0px;
+ 	line-height: 1.5;
+ 	background-color: aquamarine;
+ }
 
+ h1 {
+ 	text-align: center;
+ }
 
-   h1 {
-       text-align: center;
-   }
+ p {
+ 	font-size: 1.2em;
+ 	margin: 0px;
+ 	padding: 0px;
+ }
 
+ img {
+ 	width: 50%;
+ 	height: 500px;
+ 	border-radius: 5px;
+ 	display: auto;
+ 	margin: 0px;
+ }
 
-   p {
-       font-size: 1.2em;
-       margin: 0px;
-       padding: 0px;
-   }
+ .menu {
+ 	line-height: 2.0;
+ 	font-size: 20px;
+ 	color: red;
+ 	font-family: Verdana, Geneva, Tahoma, sans-serif;
+ 	text-align: center;
+ }
 
+ .menu a {
+ 	text-decoration: none;
+ }
 
-   img {
-       width: 50%;
-       height: 500px;
-       border-radius: 5px;
-       display: auto;
-       margin: 0px;
-   }
+ .menu li {
+ 	list-style-type: none;
+ }
 
+ .imgindex {
+ 	width: 400px;
+ 	height: 300px;
+ }
 
-   .menu{
-       line-height: 2.0;
-       font-size: 20px;
-       color: red;
-       font-family: Verdana, Geneva, Tahoma, sans-serif;
-       text-align: center;
-   }
+ #principal {
+ 	color: aquamarine;
+ }
 
-
-   .menu a{
-       text-decoration: none;
-   }
-
-
-   .menu li{
-       list-style-type: none;
-   }
-
-
-   .imgindex {
-       width: 400px;
-       height: 300px;
-   }
-
-
-  
-
-
-   #principal {
-	color: aquamarine;
-   }
-
-   .menuimg{
-	text-align: left;
-   }
+ .menuimg {
+ 	display: flex;
+ }
