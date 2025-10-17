@@ -57,3 +57,17 @@
     padding: 0;
     margin-top: 20px;
  }
+
+.menu-img li {
+    margin: 0 10px; 
+}
+
+.imgindex {
+    width: 400px;
+    height: 300px;
+}
+
+img:not(.imgindex) {
+   width: auto;
+   height: auto;
+}
