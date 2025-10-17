@@ -1,7 +1,7 @@
 	body {
 		text-align: center;
 		text-decoration: none;
-		font-family: 'Times New Roman', Times;
+		font-family: Verdana, Geneva, Tahoma, sans-serif;
 		margin: 0px;
 		padding: 0px;
 	}
@@ -17,6 +17,13 @@
 	img {
 		width: 500px;
 		height: 500px;
+	}
+
+
+	.menu{
+		text-align: center;
+		text-decoration: none;
+		font-family: Verdana, Geneva, Tahoma, sans-serif;
 	}
 
 	.imgindex {
