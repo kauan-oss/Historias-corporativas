@@ -1,2 +1,0 @@
-# Historias-corporativas
-Historias
